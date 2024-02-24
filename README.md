@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import doWhileEachRight from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-do-while-each-right@esm/index.mjs';
+import doWhileEachRight from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-do-while-each-right@v0.2.1-esm/index.mjs';
 ```
 
 #### doWhileEachRight( collection, fcn, predicate\[, thisArg ] )
@@ -236,7 +236,7 @@ var mean = context.sum / context.count;
 var isEven = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-even' ).isPrimitive;
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import floor from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-floor@esm/index.mjs';
-import doWhileEachRight from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-do-while-each-right@esm/index.mjs';
+import doWhileEachRight from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-do-while-each-right@v0.2.1-esm/index.mjs';
 
 var arr;
 var i;
